@@ -7,3 +7,6 @@ num3 = 100
 
 num5 = 100
 
+
+
+nihao dajiahoa douhao 
